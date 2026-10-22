@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.core</groupId>
 	<artifactId>order-job</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>order-job</name>
 	<description>Quartz Job Scheduler for retrying failed events and maintenance</description>
 
@@ -22,13 +22,13 @@
 		<dependency>
 			<groupId>com.core</groupId>
 			<artifactId>order-common</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.core</groupId>
 			<artifactId>order-model</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>0.0.1</version>
 		</dependency>
 
 		<dependency>
